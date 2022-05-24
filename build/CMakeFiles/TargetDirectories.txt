@@ -1,0 +1,5 @@
+/home/lmy/test/build/CMakeFiles/rebuild_cache.dir
+/home/lmy/test/build/CMakeFiles/edit_cache.dir
+/home/lmy/test/build/CMakeFiles/useHello.dir
+/home/lmy/test/build/CMakeFiles/helloslam.dir
+/home/lmy/test/build/CMakeFiles/hello.dir
